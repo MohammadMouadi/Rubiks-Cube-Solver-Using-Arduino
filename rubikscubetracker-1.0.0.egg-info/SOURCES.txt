@@ -1,0 +1,7 @@
+README.md
+rubikscubetracker/__init__.py
+rubikscubetracker.egg-info/PKG-INFO
+rubikscubetracker.egg-info/SOURCES.txt
+rubikscubetracker.egg-info/dependency_links.txt
+rubikscubetracker.egg-info/top_level.txt
+usr/bin/rubiks-cube-tracker.py

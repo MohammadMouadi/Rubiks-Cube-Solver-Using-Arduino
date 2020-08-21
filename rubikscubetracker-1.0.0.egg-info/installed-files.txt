@@ -1,0 +1,7 @@
+../rubikscubetracker/__init__.py
+../rubikscubetracker/__init__.pyc
+top_level.txt
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+../../../../bin/rubiks-cube-tracker.py
