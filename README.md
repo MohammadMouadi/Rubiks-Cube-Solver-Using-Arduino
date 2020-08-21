@@ -1,5 +1,6 @@
 # Rubiks-Cube-Solver-Using-Arduino
 This is a small Arduino application to solve a 3x3x3 rubiks cube
+Demo: https://www.youtube.com/watch?v=awxGJ7aVk4g
 
 Overview: A pre-built rubiks cube solver was modified to establish serial channel to communicate with Arduino.
 Since 3 servo motors were used. Mapping known cube movments (R,L,U ...) to our motors movements was needed.
